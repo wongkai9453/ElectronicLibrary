@@ -1,0 +1,5 @@
+15:15:36.050 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+15:15:36.121 [main] DEBUG c.a.druid.pool.PreparedStatementPool - stmt enter cache
+15:15:36.122 [main] INFO  Utils.JdbcTest - 1
+15:15:36.122 [main] INFO  Utils.JdbcTest - Swaziland
+15:15:36.122 [main] INFO  Utils.JdbcTest - SZ
