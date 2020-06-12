@@ -155,7 +155,7 @@ public class JdbcUtils {
         ResultSet rs = null;
         try {
             conn =  JdbcDruidMysql.getConnection();
-            sql = sql + "  order by tid asc limit 1";
+          //  sql = sql + "  order by tid asc limit 1";
             pstmt = conn.prepareStatement(sql);
             for (int i = 0; i <args.length ; i++) {
                 pstmt.setObject(i+1,args[i]);
