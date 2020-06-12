@@ -13,7 +13,7 @@ import java.security.MessageDigest;
 
 /**
  * @ClassName LoginServlet
- * @Description TODO
+ * @Description servlet实现登录方法
  * @Author wk
  * @Date 2020/6/12 0012 15:58
  * @Version 1.0

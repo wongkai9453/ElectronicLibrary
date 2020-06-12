@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * @ClassName SysUsersIDao
- * @Description TODO
+ * @Description 用户信息dao
  * @Author wk
  * @Date 2020/6/12 0012 17:06
  * @Version 1.0
